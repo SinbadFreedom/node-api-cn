@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.15
--->
+###buf.writeIntLE(value, offset, byteLength[, noAssert])
 
 * `value` {Integer} 要写入 `buf` 的数值
 * `offset` {Integer} 开始写入的位置，必须满足：`0 <= offset <= buf.length - byteLength`

@@ -1,4 +1,4 @@
-
+###在 Windows 上衍生 .bat 和 .cmd 文件
 [`child_process.exec()`] 和 [`child_process.execFile()`] 之间的重大区别会根据平台的不同而不同。
 在类 Unix 操作系统上（Unix、 Linux、 OSX），[`child_process.execFile()`] 效率更高，因为它不需要衍生一个 shell。
 但是在 Windows 上，`.bat` 和 `.cmd` 文件在没有终端的情况下是不可执行的，因此不能使用 [`child_process.execFile()`] 启动。

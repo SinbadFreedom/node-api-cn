@@ -1,4 +1,4 @@
-
+##Buffer.from(), Buffer.alloc(), and Buffer.allocUnsafe()
 在 Node.js v6 之前的版本中，`Buffer` 实例是通过 `Buffer` 构造函数创建的，它根据提供的参数返回不同的 `Buffer`：
 
 * 传一个数值作为第一个参数给 `Buffer()`（如 `new Buffer(10)`），则分配一个指定大小的新建的 `Buffer` 对象。

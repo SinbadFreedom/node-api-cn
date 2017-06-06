@@ -1,7 +1,4 @@
-<!-- YAML
-added: v5.10.0
--->
-
+###类方法：Buffer.from(buffer)
 * `buffer` {Buffer} 一个要拷贝数据的已存在的 `Buffer`
 
 将传入的 `buffer` 数据拷贝到一个新建的 `Buffer` 实例。

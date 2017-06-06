@@ -1,6 +1,4 @@
-<!-- YAML
-added: v5.3.0
--->
+###buf.includes(value[, byteOffset][, encoding])
 
 * `value` {String | Buffer | Integer} 要搜索的值
 * `byteOffset` {Integer} `buf` 中开始搜索的位置。**默认:** `0`

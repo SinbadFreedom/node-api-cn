@@ -1,4 +1,4 @@
-
+##创建异步进程
 [`child_process.spawn()`]、[`child_process.fork()`]、[`child_process.exec()`] 和 [`child_process.execFile()`] 方法都遵循与其他 Node.js API 一样的惯用的异步编程模式。
 
 每个方法都返回一个 [`ChildProcess`] 实例。

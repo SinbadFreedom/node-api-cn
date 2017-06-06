@@ -1,6 +1,4 @@
-<!-- YAML
-added: v5.10.0
--->
+###类方法：Buffer.from(array)
 
 * `array` {Array}
 

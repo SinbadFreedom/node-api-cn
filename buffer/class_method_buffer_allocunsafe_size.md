@@ -1,6 +1,4 @@
-<!-- YAML
-added: v5.10.0
--->
+###类方法：Buffer.allocUnsafe(size)
 
 * `size` {Integer} 新建的 `Buffer` 期望的长度
 

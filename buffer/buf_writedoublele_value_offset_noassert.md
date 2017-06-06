@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.15
--->
+###buf.writeDoubleLE(value, offset[, noAssert])
 
 * `value` {Number} 要写入 `buf` 的数值
 * `offset` {Integer} 开始写入的位置，必须满足：`0 <= offset <= buf.length - 8`

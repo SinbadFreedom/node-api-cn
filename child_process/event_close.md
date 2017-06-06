@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.7
--->
+###'close' 事件
 
 * `code` {Number} 如果子进程退出自身，则该值是退出码。
 * `signal` {String} 子进程被终止时的信号。

@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.90
--->
+###buf.toString([encoding[, start[, end]]])
 
 * `encoding` {String} 解码使用的字符编码。**默认:** `'utf8'`
 * `start` {Integer} 开始解码的字节偏移量。**默认:** `0`

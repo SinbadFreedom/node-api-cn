@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.90
--->
+###child_process.exec(command[, options][, callback])
 
 * `command` {String} 要运行的命令，用空格分隔参数
 * `options` {Object}

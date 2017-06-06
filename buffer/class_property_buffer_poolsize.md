@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.3
--->
+###类属性：Buffer.poolSize
 
 * {Integer} **默认:** `8192`
 

@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.5.9
--->
+###child.send(message[, sendHandle[, options]][, callback])
 
 * `message` {Object}
 * `sendHandle` {Handle}

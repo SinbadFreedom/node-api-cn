@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.5.4
--->
+###buffer.INSPECT_MAX_BYTES
 
 * {Integer} **默认:** `50`
 

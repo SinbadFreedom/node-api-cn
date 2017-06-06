@@ -1,6 +1,4 @@
-<!-- YAML
-added: v6.3.0
--->
+###buf.swap64()
 
 * 返回: {Buffer} `buf` 的引用
 

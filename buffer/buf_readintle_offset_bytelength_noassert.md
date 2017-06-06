@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.15
--->
+###buf.readIntLE(offset, byteLength[, noAssert])
 
 * `offset` {Integer} 开始读取的位置，必须满足：`0 <= offset <= buf.length - byteLength`
 * `byteLength` {Integer} 要读取的字节数。必须满足：`0 < byteLength <= 6`

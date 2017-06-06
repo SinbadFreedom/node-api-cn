@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.90
--->
+###child_process.spawn(command[, args][, options])
 
 * `command` {String} 要运行的命令
 * `args` {Array} 字符串参数列表

@@ -1,6 +1,4 @@
-<!-- YAML
-added: v3.0.0
--->
+###buffer.kMaxLength
 
 * {Integer} 分配给单个 `Buffer` 实例的最大内存
 

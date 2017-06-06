@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.13
--->
+###buf.equals(otherBuffer)
 
 * `otherBuffer` {Buffer} 要比较的 `Buffer`
 * 返回: {Boolean}

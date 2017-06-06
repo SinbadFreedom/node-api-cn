@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.12
--->
+####hild_process.execSync(command[, options])
 
 * `command` {String} 要运行的命令
 * `options` {Object}

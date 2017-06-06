@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.2
--->
+###child.connected
 
 * {Boolean} 调用 `child.disconnect()` 后会被设为 `false`
 

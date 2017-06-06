@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.90
--->
+###buf.copy(target[, targetStart[, sourceStart[, sourceEnd]]])
 
 * `target` {Buffer|Uint8Array} 要拷贝进的 `Buffer` 或 [`Uint8Array`]。
 * `targetStart` {Integer} `target` 中开始拷贝进的偏移量。

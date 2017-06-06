@@ -1,4 +1,4 @@
-
+####void AtExit(callback, args)
 * `callback`: `void (*)(void*)` - 一个退出时调用的函数的指针。
 * `args`: `void*` - 一个退出时传递给回调的指针。
 

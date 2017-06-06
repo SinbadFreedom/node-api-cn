@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.11
--->
+###类方法：Buffer.concat(list[, totalLength])
 
 * `list` {Array} 要合并的 `Buffer` 实例的数组
 * `totalLength` {Integer} 合并时 `list` 中 `Buffer` 实例的总长度

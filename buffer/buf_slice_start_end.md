@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.3.0
--->
+###buf.slice([start[, end]])
 
 * `start` {Integer} 新建的 `Buffer` 开始的位置。 **默认:** `0`
 * `end` {Integer} 新建的 `Buffer` 结束的位置（不包含）。

@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.5.0
--->
+###child_process.fork(modulePath[, args][, options])
 
 * `modulePath` {String} 要在子进程中运行的模块
 * `args` {Array} 字符串参数列表

@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.5.5
--->
+###buf.readInt16LE(offset[, noAssert])
 
 * `offset` {Integer} 开始读取的位置，必须满足：`0 <= offset <= buf.length - 2`
 * `noAssert` {Boolean} 是否跳过 `offset` 检验？**默认:** `false`

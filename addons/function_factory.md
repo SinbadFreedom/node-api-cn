@@ -1,4 +1,4 @@
-
+###函数工厂
 另一种常见情况是创建 JavaScript 函数来包装 C++ 函数，并返回到 JavaScript：
 
 ```cpp

@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.9.2
--->
+###buf.toJSON()
 
 * 返回: {Object}
 

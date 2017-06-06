@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.5.9
--->
+###'message' 事件
 
 * `message` {Object} 一个已解析的 JSON 对象或原始值。
 * `sendHandle` {Handle} 一个 [`net.Socket`] 或 [`net.Server`] 对象 或 `undefined`。

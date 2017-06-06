@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.1.90
--->
-
+###child.stdin
 * {stream.Writable}
 
 一个代表子进程的 `stdin` 的可写流。

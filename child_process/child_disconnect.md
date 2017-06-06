@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.2
--->
+###child.disconnect()
 
 关闭父进程与子进程之间的 IPC 通道，一旦没有其他的连接使其保持活跃，则允许子进程正常退出。
 调用该方法后，父进程和子进程上各自的 `child.connected` 和 `process.connected` 属性都会被设为 `false`，且进程之间不能再传递消息。

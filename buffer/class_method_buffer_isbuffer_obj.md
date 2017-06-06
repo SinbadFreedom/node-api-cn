@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.1.101
--->
-
+###类方法：Buffer.isBuffer(obj)
 * `obj` {Object}
 * 返回: {Boolean}
 

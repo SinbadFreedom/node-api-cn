@@ -1,6 +1,4 @@
-<!-- YAML
-added: v1.1.0
--->
+###buf.values()
 
 * 返回: {Iterator}
 

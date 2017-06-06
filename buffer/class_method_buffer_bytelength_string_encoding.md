@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.90
--->
+###类方法：Buffer.byteLength(string[, encoding])
 
 * `string` {String | Buffer | TypedArray | DataView | ArrayBuffer} 要计算长度的值
 * `encoding` {String} 如果 `string` 是字符串，则这是它的字符编码。

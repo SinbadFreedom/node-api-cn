@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.10
--->
+####options.detached
 
 在 Windows 上，设置 `options.detached` 为 `true` 可以使子进程在父进程退出后继续运行。
 子进程有自己的控制台窗口。

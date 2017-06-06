@@ -1,9 +1,7 @@
-<!-- YAML
-added: v0.1.21
--->
-* `actual` {any}
-* `expected` {any}
-* `message` {any}
+##assert.notStrictEqual(actual, expected[, message])
+* `actual` {any}   
+* `expected` {any}   
+* `message` {any}   
 
 使用不全等运算符（`!==`）测试是否不全等。
 

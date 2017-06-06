@@ -1,6 +1,4 @@
-<!-- YAML
-added: v5.10.0
--->
+###--zero-fill-buffers 命令行选项
 
 Node.js 可以在一开始就使用 `--zero-fill-buffers` 命令行选项强制所有使用 `new Buffer(size)` 、[`Buffer.allocUnsafe()`] 、[`Buffer.allocUnsafeSlow()`] 或 `new SlowBuffer(size)` 新分配的 `Buffer` 实例在创建时**自动用 0 填充**。
 使用这个选项会**改变**这些方法的**默认行为**，且**对性能有明显的影响**。

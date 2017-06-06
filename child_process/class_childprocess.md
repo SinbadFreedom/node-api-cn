@@ -1,6 +1,4 @@
-<!-- YAML
-added: v2.2.0
--->
+##ChildProcess 类
 
 `ChildProcess` 类的实例是 [`EventEmitter`]，代表衍生的子进程。
 

@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.90
--->
+###child.kill([signal])
 
 * `signal` {String}
 

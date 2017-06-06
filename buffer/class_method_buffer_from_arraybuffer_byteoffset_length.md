@@ -1,6 +1,4 @@
-<!-- YAML
-added: v5.10.0
--->
+###类方法：Buffer.from(arrayBuffer[, byteOffset[, length]])
 
 * `arrayBuffer` {ArrayBuffer} 一个 [`ArrayBuffer`]，或一个 [`TypedArray`] 的 `.buffer` 属性。
 * `byteOffset` {Integer} 开始拷贝的索引。默认为 `0`。

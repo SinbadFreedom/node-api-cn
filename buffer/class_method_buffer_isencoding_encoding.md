@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.9.1
--->
+###类方法：Buffer.isEncoding(encoding)
 
 * `encoding` {String} 一个要检查的字符编码名称
 * 返回: {Boolean}

@@ -1,6 +1,4 @@
-<!-- YAML
-added: v5.10.0
--->
+###类方法：Buffer.alloc(size[, fill[, encoding]])
 
 * `size` {Integer} 新建的 `Buffer` 期望的长度
 * `fill` {String | Buffer | Integer} 用来预填充新建的 `Buffer` 的值。

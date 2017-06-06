@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.11.13
--->
-
+###类方法：Buffer.compare(buf1, buf2)
 * `buf1` {Buffer}
 * `buf2` {Buffer}
 * Returns: {Integer}

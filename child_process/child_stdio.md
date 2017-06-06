@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.10
--->
+####child.stdio
 
 * {Array}
 

@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.5.0
--->
-
+###buf.fill(value[, offset[, end]][, encoding])
 * `value` {String | Buffer | Integer} 用来填充 `buf` 的值
 * `offset` {Integer} 开始填充 `buf` 的位置。**默认:** `0`
 * `end` {Integer} 结束填充 `buf` 的位置（不包含）。**默认:** [`buf.length`]

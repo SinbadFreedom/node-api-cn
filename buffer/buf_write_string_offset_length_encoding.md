@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.90
--->
+###buf.write(string[, offset[, length]][, encoding])
 
 * `string` {String} 要写入 `buf` 的字符串
 * `offset` {Integer} 开始写入 `string` 的位置。**默认:** `0`

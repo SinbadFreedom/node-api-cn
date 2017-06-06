@@ -1,6 +1,4 @@
-<!-- YAML
-added: v6.0.0
--->
+###buf.lastIndexOf(value[, byteOffset][, encoding])
 
 * `value` {String | Buffer | Integer} 要搜索的值
 * `byteOffset` {Integer} `buf` 中开始搜索的位置。

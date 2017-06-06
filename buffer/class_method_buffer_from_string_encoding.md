@@ -1,6 +1,4 @@
-<!-- YAML
-added: v5.10.0
--->
+###类方法：Buffer.from(string[, encoding])
 
 * `string` {String} 要编码的字符串
 * `encoding` {String} `string` 的字符编码。 **默认:** `'utf8'`

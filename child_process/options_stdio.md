@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.10
--->
+####options.stdio
 
 `options.stdio` 选项用于配置子进程与父进程之间建立的管道。
 默认情况下，子进程的 stdin、 stdout 和 stderr 会重定向到 [`ChildProcess`] 对象上相应的 [`child.stdin`]、 [`child.stdout`] 和 [`child.stderr`] 流。

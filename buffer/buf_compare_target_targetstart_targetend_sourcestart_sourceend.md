@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.13
--->
+###buf.compare(target[, targetStart[, targetEnd[, sourceStart[, sourceEnd]]]])
 
 * `target` {Buffer} 要比较的 `Buffer`
 * `targetStart` {Integer} `target` 中开始对比的偏移量。

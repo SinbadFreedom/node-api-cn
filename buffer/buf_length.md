@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.90
--->
+###buf.length
 
 * {Integer}
 

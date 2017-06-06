@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.91
--->
+###child_process.execFile(file[, args][, options][, callback])
 
 * `file` {String} 要运行的可执行文件的名称或路径
 * `args` {Array} 字符串参数列表
