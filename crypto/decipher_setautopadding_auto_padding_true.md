@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.1
--->
+###decipher.setAutoPadding([auto_padding])
 
 When data has been encrypted without standard block padding, calling
 `decipher.setAutoPadding(false)` will disable automatic padding to prevent

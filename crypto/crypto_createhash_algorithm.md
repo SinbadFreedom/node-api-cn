@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.92
--->
+###crypto.createHash(algorithm)
 
 Creates and returns a `Hash` object that can be used to generate hash digests
 using the given `algorithm`.

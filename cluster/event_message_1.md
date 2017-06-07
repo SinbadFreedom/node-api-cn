@@ -1,4 +1,4 @@
-
+##Event: 'message'
 * `worker` {cluster.Worker}
 * `message` {Object}
 * `handle` {undefined|Object}

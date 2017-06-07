@@ -1,4 +1,4 @@
-
+###new crypto.Certificate()
 Instances of the `Certificate` class can be created using the `new` keyword
 or by calling `crypto.Certificate()` as a function:
 

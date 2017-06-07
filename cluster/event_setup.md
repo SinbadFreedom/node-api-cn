@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.1
--->
+##Event: 'setup'
 
 * `settings` {Object}
 

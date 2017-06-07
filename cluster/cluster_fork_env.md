@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.6.0
--->
+##cluster.fork([env])
 
 * `env` {Object} Key/value pairs to add to worker process environment.
 * return {cluster.Worker}

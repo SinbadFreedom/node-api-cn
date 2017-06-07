@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.1.92
-deprecated: v0.11.13
--->
+###crypto.createCredentials(details)
 
 > Stability: 0 - Deprecated: Use [`tls.createSecureContext()`][] instead.
 

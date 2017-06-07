@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.3
--->
+###Event: 'error'
 
 This event is the same as the one provided by [`child_process.fork()`][].
 

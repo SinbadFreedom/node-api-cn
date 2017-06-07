@@ -1,4 +1,4 @@
-
+##How It Works
 <!--type=misc-->
 
 The worker processes are spawned using the [`child_process.fork()`][] method,

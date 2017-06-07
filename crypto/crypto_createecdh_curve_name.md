@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.14
--->
+###crypto.createECDH(curve_name)
 
 Creates an Elliptic Curve Diffie-Hellman (`ECDH`) key exchange object using a
 predefined curve specified by the `curve_name` string. Use

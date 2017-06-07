@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.14
--->
+###ecdh.generateKeys([encoding[, format]])
 
 Generates private and public EC Diffie-Hellman key values, and returns
 the public key in the specified `format` and `encoding`. This key should be

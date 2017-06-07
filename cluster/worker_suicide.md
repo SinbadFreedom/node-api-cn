@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.7.0
-deprecated: v6.0.0
--->
+###worker.suicide
 
 > Stability: 0 - Deprecated: Use [`worker.exitedAfterDisconnect`][] instead.
 

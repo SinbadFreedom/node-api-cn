@@ -1,4 +1,4 @@
-
+###NODE_EXTRA_CA_CERTS=file
 当设置了此选项时，根 CA 证书（如 VeriSign）会被 `file` 指定的证书扩展。
 文件应该包括一个或多个可信的 PEM 格式的证书。
 如果文件丢失或有缺陷，则 [`process.emitWarning()`] 会触发一个消息。

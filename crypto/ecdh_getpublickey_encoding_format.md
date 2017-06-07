@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.14
--->
+###ecdh.getPublicKey([encoding][, format])
 
 Returns the EC Diffie-Hellman public key in the specified `encoding` and
 `format`.

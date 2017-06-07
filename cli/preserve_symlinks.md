@@ -1,6 +1,4 @@
-<!-- YAML
-added: v6.3.0
--->
+###--preserve-symlinks
 
 当解析和缓存模块时，命令模块加载器保持符号连接。
 

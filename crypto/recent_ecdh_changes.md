@@ -1,4 +1,4 @@
-
+###Recent ECDH Changes
 Usage of `ECDH` with non-dynamically generated key pairs has been simplified.
 Now, [`ecdh.setPrivateKey()`][] can be called with a preselected private key
 and the associated public point (key) will be computed and stored in the object.

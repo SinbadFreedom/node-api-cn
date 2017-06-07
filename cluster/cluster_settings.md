@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.1
--->
+##cluster.settings
 
 * {Object}
   * `execArgv` {Array} list of string arguments passed to the Node.js

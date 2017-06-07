@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.14
--->
+###crypto.publicEncrypt(public_key, buffer)
 
 Encrypts `buffer` with `public_key`.
 

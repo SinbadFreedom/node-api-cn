@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.8.0
--->
+###--no-deprecation
 
 静默废弃的警告。
 

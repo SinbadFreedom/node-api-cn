@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.9
--->
+##Event: 'disconnect'
 
 * `worker` {cluster.Worker}
 

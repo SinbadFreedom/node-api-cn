@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.94
--->
+##Class: Decipher
 
 Instances of the `Decipher` class are used to decrypt data. The class can be
 used in one of two ways:

@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.14
--->
+###ecdh.computeSecret(other_public_key[, input_encoding][, output_encoding])
 
 Computes the shared secret using `other_public_key` as the other
 party's public key and returns the computed shared secret. The supplied

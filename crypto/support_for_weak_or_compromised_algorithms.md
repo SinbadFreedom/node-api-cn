@@ -1,4 +1,4 @@
-
+###Support for weak or compromised algorithms
 The `crypto` module still supports some algorithms which are already
 compromised and are not currently recommended for use. The API also allows
 the use of ciphers and hashes with a small key size that are considered to be

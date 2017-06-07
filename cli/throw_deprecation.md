@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.14
--->
+###--throw-deprecation
 
 抛出废弃的错误。
 

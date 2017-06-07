@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.7
--->
+##Event: 'disconnect'
 
 Similar to the `cluster.on('disconnect')` event, but specific to this worker.
 

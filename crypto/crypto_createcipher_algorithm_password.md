@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.94
--->
+###crypto.createCipher(algorithm, password)
 
 Creates and returns a `Cipher` object that uses the given `algorithm` and
 `password`.

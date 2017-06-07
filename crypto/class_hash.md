@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.92
--->
+##Class: Hash
 
 The `Hash` class is a utility for creating hash digests of data. It can be
 used in one of two ways:

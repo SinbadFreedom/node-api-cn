@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.5.0
--->
+##Class: DiffieHellman
 
 The `DiffieHellman` class is a utility for creating Diffie-Hellman key
 exchanges.

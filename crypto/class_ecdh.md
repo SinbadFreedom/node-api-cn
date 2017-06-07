@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.14
--->
+##Class: ECDH
 
 The `ECDH` class is a utility for creating Elliptic Curve Diffie-Hellman (ECDH)
 key exchanges.

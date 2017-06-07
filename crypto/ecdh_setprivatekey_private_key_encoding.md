@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.11.14
--->
-
+###ecdh.setPrivateKey(private_key[, encoding])
 Sets the EC Diffie-Hellman private key. The `encoding` can be `'latin1'`,
 `'hex'` or `'base64'`. If `encoding` is provided, `private_key` is expected
 to be a string; otherwise `private_key` is expected to be a [`Buffer`][]. If

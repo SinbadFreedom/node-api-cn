@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.92
--->
+##Class: Sign
 
 The `Sign` Class is a utility for generating signatures. It can be used in one
 of two ways:

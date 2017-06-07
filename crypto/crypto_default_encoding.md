@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.9.3
--->
+###crypto.DEFAULT_ENCODING
 
 The default encoding to use for functions that can take either strings
 or [buffers][`Buffer`]. The default value is `'buffer'`, which makes methods

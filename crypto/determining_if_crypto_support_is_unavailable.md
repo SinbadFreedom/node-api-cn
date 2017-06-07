@@ -1,4 +1,4 @@
-
+##Determining if crypto support is unavailable
 It is possible for Node.js to be built without including support for the
 `crypto` module. In such cases, calling `require('crypto')` will result in an
 error being thrown.

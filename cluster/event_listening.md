@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.0
--->
+###Event: 'listening'
 
 * `address` {Object}
 

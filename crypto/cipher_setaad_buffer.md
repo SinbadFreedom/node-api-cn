@@ -1,6 +1,4 @@
-<!-- YAML
-added: v1.0.0
--->
+###cipher.setAAD(buffer)
 
 When using an authenticated encryption mode (only `GCM` is currently
 supported), the `cipher.setAAD()` method sets the value used for the

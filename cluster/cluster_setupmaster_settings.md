@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.1
--->
+##cluster.setupMaster([settings])
 
 * `settings` {Object}
   * `exec` {String} file path to worker file.  (Default=`process.argv[1]`)

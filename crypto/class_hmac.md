@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.94
--->
+##Class: Hmac
 
 The `Hmac` Class is a utility for creating cryptographic HMAC digests. It can
 be used in one of two ways:

@@ -1,6 +1,4 @@
-<!-- YAML
-added: v1.1.0
--->
+###crypto.publicDecrypt(public_key, buffer)
 
 Decrypts `buffer` with `public_key`.
 

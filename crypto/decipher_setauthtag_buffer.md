@@ -1,6 +1,4 @@
-<!-- YAML
-added: v1.0.0
--->
+###decipher.setAuthTag(buffer)
 
 When using an authenticated encryption mode (only `GCM` is currently
 supported), the `decipher.setAuthTag()` method is used to pass in the

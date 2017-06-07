@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.5.8
--->
+###crypto.randomBytes(size[, callback])
 
 Generates cryptographically strong pseudo-random data. The `size` argument
 is a number indicating the number of bytes to generate.

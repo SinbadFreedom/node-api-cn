@@ -1,6 +1,4 @@
-<!-- YAML
-added: v1.6.0
--->
+###-r, --require module
 
 在启动时预加载指定的模块。
 

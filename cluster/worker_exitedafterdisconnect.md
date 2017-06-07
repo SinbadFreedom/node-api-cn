@@ -1,6 +1,4 @@
-<!-- YAML
-added: v6.0.0
--->
+###worker.exitedAfterDisconnect
 
 * {Boolean}
 

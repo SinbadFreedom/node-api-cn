@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.1.92
--->
-
+###sign.sign(private_key[, output_format])
 Calculates the signature on all the data passed through using either
 [`sign.update()`][] or [`sign.write()`][stream-writable-write].
 

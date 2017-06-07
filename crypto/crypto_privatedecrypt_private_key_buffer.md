@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.14
--->
+###crypto.privateDecrypt(private_key, buffer)
 
 Decrypts `buffer` with `private_key`.
 

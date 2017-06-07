@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.94
--->
+###crypto.createDecipheriv(algorithm, key, iv)
 
 Creates and returns a `Decipher` object that uses the given `algorithm`, `key`
 and initialization vector (`iv`).

@@ -1,7 +1,4 @@
-<!-- YAML
-added: v2.3.0
--->
-
+###crypto.getCurves()
 Returns an array with the names of the supported elliptic curves.
 
 Example:

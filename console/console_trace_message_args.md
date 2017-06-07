@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.104
--->
+###console.trace([message][, ...args])
 
 打印字符串 `'Trace :'` 到 `stderr` ，并通过 [`util.format()`] 格式化消息与堆栈跟踪在代码中的当前位置。
 

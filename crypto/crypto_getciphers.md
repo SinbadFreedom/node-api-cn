@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.9.3
--->
+###crypto.getCiphers()
 
 Returns an array with the names of the supported cipher algorithms.
 

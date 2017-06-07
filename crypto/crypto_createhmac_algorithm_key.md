@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.94
--->
+###crypto.createHmac(algorithm, key)
 
 Creates and returns an `Hmac` object that uses the given `algorithm` and `key`.
 

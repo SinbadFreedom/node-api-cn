@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.0
--->
+###worker.send(message[, sendHandle][, callback])
 
 * `message` {Object}
 * `sendHandle` {Handle}

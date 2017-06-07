@@ -1,4 +1,4 @@
-
+###Legacy Streams API (pre Node.js v0.10)
 The Crypto module was added to Node.js before there was the concept of a
 unified Stream API, and before there were [`Buffer`][] objects for handling
 binary data. As such, the many of the `crypto` defined classes have methods not

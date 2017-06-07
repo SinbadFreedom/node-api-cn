@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.12
--->
+###diffieHellman.verifyError
 
 A bit field containing any warnings and/or errors resulting from a check
 performed during initialization of the `DiffieHellman` object.

@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.104
--->
+###console.timeEnd(label)
 
 停止之前通过调用 [`console.time()`] 启动的定时器，并打印结果到 `stdout`：
 

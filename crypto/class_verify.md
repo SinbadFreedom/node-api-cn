@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.92
--->
+##Class: Verify
 
 The `Verify` class is a utility for verifying signatures. It can be used in one
 of two ways:

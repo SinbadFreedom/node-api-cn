@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.12
--->
+###crypto.createDiffieHellman(prime[, prime_encoding][, generator][, generator_encoding])
 
 Creates a `DiffieHellman` key exchange object using the supplied `prime` and an
 optional specific `generator`.

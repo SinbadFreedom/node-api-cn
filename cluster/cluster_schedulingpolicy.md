@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.2
--->
+##cluster.schedulingPolicy
 
 The scheduling policy, either `cluster.SCHED_RR` for round-robin or
 `cluster.SCHED_NONE` to leave it to the operating system. This is a

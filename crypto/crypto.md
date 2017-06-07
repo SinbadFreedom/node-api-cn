@@ -1,4 +1,4 @@
-
+#Crypto
 > Stability: 2 - Stable
 
 The `crypto` module provides cryptographic functionality that includes a set of

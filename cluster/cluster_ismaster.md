@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.8.1
--->
+##cluster.isMaster
 
 * {Boolean}
 

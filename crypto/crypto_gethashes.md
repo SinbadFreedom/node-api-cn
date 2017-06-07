@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.9.3
--->
+###crypto.getHashes()
 
 Returns an array of the names of the supported hash algorithms,
 such as `RSA-SHA256`.

@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.1.94
--->
-
+###cipher.update(data[, input_encoding][, output_encoding])
 Updates the cipher with `data`. If the `input_encoding` argument is given,
 its value must be one of `'utf8'`, `'ascii'`, or `'latin1'` and the `data`
 argument is a string using the specified encoding. If the `input_encoding`

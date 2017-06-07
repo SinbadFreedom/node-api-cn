@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.7.9
--->
-
+##Event: 'exit'
 * `worker` {cluster.Worker}
 * `code` {Number} the exit code, if it exited normally.
 * `signal` {String} the name of the signal (e.g. `'SIGHUP'`) that caused

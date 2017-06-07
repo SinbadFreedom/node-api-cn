@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.94
--->
+##Class: Cipher
 
 Instances of the `Cipher` class are used to encrypt data. The class can be
 used in one of two ways:

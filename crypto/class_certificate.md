@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.8
--->
+##Class: Certificate
 
 SPKAC is a Certificate Signing Request mechanism originally implemented by
 Netscape and now specified formally as part of [HTML5's `keygen` element][].

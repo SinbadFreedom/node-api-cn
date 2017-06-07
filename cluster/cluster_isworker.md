@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.6.0
--->
+##cluster.isWorker
 
 * {Boolean}
 

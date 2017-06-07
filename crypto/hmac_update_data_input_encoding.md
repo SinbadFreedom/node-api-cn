@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.94
--->
+###hash.update(data[, input_encoding])
 
 Updates the `Hmac` content with the given `data`, the encoding of which
 is given in `input_encoding` and can be `'utf8'`, `'ascii'` or

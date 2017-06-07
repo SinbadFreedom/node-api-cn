@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.9.12
--->
-
+###worker.kill([signal='SIGTERM'])
 * `signal` {String} Name of the kill signal to send to the worker
   process.
 

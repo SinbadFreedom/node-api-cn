@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.9.3
--->
+###crypto.pbkdf2Sync(password, salt, iterations, keylen, digest)
 
 Provides a synchronous Password-Based Key Derivation Function 2 (PBKDF2)
 implementation. A selected HMAC digest algorithm specified by `digest` is

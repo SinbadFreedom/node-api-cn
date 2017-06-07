@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.94
--->
+###decipher.update(data[, input_encoding][, output_encoding])
 
 Updates the decipher with `data`. If the `input_encoding` argument is given,
 its value must be one of `'latin1'`, `'base64'`, or `'hex'` and the `data`

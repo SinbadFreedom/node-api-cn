@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.7
--->
+##cluster.disconnect([callback])
 
 * `callback` {Function} called when all workers are disconnected and handles are
   closed

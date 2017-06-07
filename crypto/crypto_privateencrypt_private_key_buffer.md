@@ -1,6 +1,4 @@
-<!-- YAML
-added: v1.1.0
--->
+###crypto.privateEncrypt(private_key, buffer)
 
 Encrypts `buffer` with `private_key`.
 

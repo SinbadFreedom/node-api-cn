@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.11.14
-deprecated: v5.2.0
--->
+###ecdh.setPublicKey(public_key[, encoding])
 
 > Stability: 0 - Deprecated
 

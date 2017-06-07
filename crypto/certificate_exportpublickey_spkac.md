@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.8
--->
+###certificate.exportPublicKey(spkac)
 
 The `spkac` data structure includes a public key and a challenge. The
 `certificate.exportPublicKey()` returns the public key component in the

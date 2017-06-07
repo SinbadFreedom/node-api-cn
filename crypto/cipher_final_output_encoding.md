@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.94
--->
+###cipher.final([output_encoding])
 
 Returns any remaining enciphered contents. If `output_encoding`
 parameter is one of `'latin1'`, `'base64'` or `'hex'`, a string is returned.

@@ -1,7 +1,4 @@
-<!-- YAML
-added: v0.11.11
--->
-
+###crypto.setEngine(engine[, flags])
 Load and set the `engine` for some or all OpenSSL functions (selected by flags).
 
 `engine` could be either an id or a path to the engine's shared library.

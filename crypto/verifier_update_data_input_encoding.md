@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.92
--->
+###verifier.update(data[, input_encoding])
 
 Updates the `Verify` content with the given `data`, the encoding of which
 is given in `input_encoding` and can be `'utf8'`, `'ascii'` or

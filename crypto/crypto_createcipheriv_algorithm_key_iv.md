@@ -1,4 +1,4 @@
-
+###crypto.createCipheriv(algorithm, key, iv)
 Creates and returns a `Cipher` object, with the given `algorithm`, `key` and
 initialization vector (`iv`).
 

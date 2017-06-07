@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.0
--->
+###Event: 'online'
 
 Similar to the `cluster.on('online')` event, but specific to this worker.
 

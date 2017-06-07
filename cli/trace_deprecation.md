@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.8.0
--->
+###--trace-deprecation
 
 打印废弃的堆栈跟踪。
 

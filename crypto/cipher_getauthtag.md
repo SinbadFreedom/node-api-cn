@@ -1,6 +1,4 @@
-<!-- YAML
-added: v1.0.0
--->
+###cipher.getAuthTag()
 
 When using an authenticated encryption mode (only `GCM` is currently
 supported), the `cipher.getAuthTag()` method returns a [`Buffer`][] containing

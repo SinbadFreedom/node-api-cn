@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.11.8
--->
+###certificate.verifySpkac(spkac)
 
 Returns `true` if the given `spkac` data structure is valid, `false` otherwise.
 The `spkac` argument must be a Node.js [`Buffer`][].

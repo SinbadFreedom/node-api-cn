@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.7.1
--->
+###cipher.setAutoPadding([auto_padding])
 
 When using block encryption algorithms, the `Cipher` class will automatically
 add padding to the input data to the appropriate block size. To disable the

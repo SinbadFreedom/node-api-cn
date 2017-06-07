@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.92
--->
+###verifier.verify(object, signature[, signature_format])
 
 Verifies the provided data using the given `object` and `signature`.
 The `object` argument is a string containing a PEM encoded object, which can be

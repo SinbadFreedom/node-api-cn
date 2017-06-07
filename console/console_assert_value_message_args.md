@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.1.101
--->
+###console.assert(value[, message][, ...args])
 
 一个简单的断言测试，验证 `value` 是否为真。
 如果不为真，则抛出 `AssertionError`。

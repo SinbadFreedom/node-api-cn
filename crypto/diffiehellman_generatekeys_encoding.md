@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.5.0
--->
+###diffieHellman.generateKeys([encoding])
 
 Generates private and public Diffie-Hellman key values, and returns
 the public key in the specified `encoding`. This key should be

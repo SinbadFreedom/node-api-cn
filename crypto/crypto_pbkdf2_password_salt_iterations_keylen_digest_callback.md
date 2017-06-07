@@ -1,6 +1,4 @@
-<!-- YAML
-added: v0.5.5
--->
+###crypto.pbkdf2(password, salt, iterations, keylen, digest, callback)
 
 Provides an asynchronous Password-Based Key Derivation Function 2 (PBKDF2)
 implementation. A selected HMAC digest algorithm specified by `digest` is
